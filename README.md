@@ -1,7 +1,6 @@
 # SUBP-Oracle-Apex
 Sustav upravljanja bazom podataka za bazu koja čuva podatke o sportskom turniru. Izrađeno u alatu Oracle Apex. 
-<br> U [dokumentaciji](https://github.com/JakovBegovic/SUBP-Oracle-Apex/blob/4260d64f1a1d89400415c435481b1af1f804dc36/Turnir%20u%20Brazilskom%20jiu%20jitsu-u.pdf) je opisana struktura relacijske baze podataka izrađene za ovaj seminarski rad. Također je opisan način izrade SUBP. Nadalje, izrađene su forme u Oracle Apex-u koje omogućavaju upravljanje nad podacima u bazi.
-<br> U svrhu seminarskog rada je razvijena nova baza podataka i njezina relacijska struktura podataka. Razvijeni su upiti, okidači i forme za unos, promjenu i brisanje podataka. 
+<br> U svrhu seminarskog rada je razvijena nova baza podataka i njezina relacijska struktura podataka. Razvijeni su upiti, okidači i forme za unos, promjenu i brisanje podataka. Sve su te stavke prikazane i opisane u [dokumentaciji](https://github.com/JakovBegovic/SUBP-Oracle-Apex/blob/4260d64f1a1d89400415c435481b1af1f804dc36/Turnir%20u%20Brazilskom%20jiu%20jitsu-u.pdf).
 <br><br> Izrađeno za kolegij Baze podataka 2. Iz rada dobiveni svi bodovi.
 <br><br>
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
